@@ -1,0 +1,13 @@
+─▄████▄▄░
+▄▀█▀▐└─┐░░
+█▄▐▌▄█▄┘██
+└▄▄▄▄▄┘███
+██▒█▒███▀ Hey !
+
+I saw the work you did on this crate adding UDP tracker support, this looks impressive!
+I've been watching this crate for some time and would love to use it for a prototype me and my team work on,
+my Rust skills aren't good enough to maintain it and add more features though. I thought I'd ask whether you would dig some
+sponsorship support for doing work on this crate and get it into a good shape? I've contacted mandreyel (the original author) already,
+but he/she seems to be busy with other things right now unfortunately. 
+Sorry for the spam PR, I couldn't find any way to contact you directly! You can reach me via discord n1cK#4197 or mail, q.fuchs at p r 0 t 0 n m@il (you get the idea :P)
+Would be nice to hear from you !
